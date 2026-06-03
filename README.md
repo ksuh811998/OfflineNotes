@@ -35,4 +35,4 @@ Offline Notes is a professional Android application built to demonstrate modern 
 *(Add your screenshots here to showcase the "Connected to Cloud" and "Offline Mode" states)*
 
 ---
-Developed by [ksuh811998](https://github.com/ksuh811998)
+Developed by [ksuh811998 - Suhrit Karn](https://github.com/ksuh811998) | [LinkedIn](https://www.linkedin.com/in/suhritkarn)
