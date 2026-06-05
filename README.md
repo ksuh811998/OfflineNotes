@@ -31,8 +31,9 @@ Offline Notes is a professional Android application built to demonstrate modern 
 - `di`: Hilt Modules for dependency injection.
 - `util`: Utility classes like the Connectivity Observer.
 
-## 📸 Screenshots
-*(Add your screenshots here to showcase the "Connected to Cloud" and "Offline Mode" states)*
+[//]: # (## 📸 Screenshots)
+
+[//]: # (*&#40;Add your screenshots here to showcase the "Connected to Cloud" and "Offline Mode" states&#41;*)
 
 ---
 Developed by [ksuh811998 - Suhrit Karn](https://github.com/ksuh811998) | [LinkedIn](https://www.linkedin.com/in/suhritkarn)
